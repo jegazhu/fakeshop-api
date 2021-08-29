@@ -13,6 +13,9 @@
     "nodemon": "^2.0.7"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@types/styled-components": "^5.1.13",
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "dotenv": "^9.0.0",
@@ -20,7 +23,9 @@
     "faker": "^5.5.3",
     "jsonwebtoken": "^8.5.1",
     "morgan": "^1.10.0",
+    "react-query": "^3.21.0",
     "redis": "^3.1.2",
-    "redis-rejson": "^1.0.0"
+    "redis-rejson": "^1.0.0",
+    "styled-components": "^5.3.1"
   }
 }
